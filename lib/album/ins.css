@@ -56,6 +56,7 @@ figure {
 	clear: both;
 	width: 100%;
 	text-align: left;
+    -webkit-padding-start: 0px;
 }
 .instagram .album li{
 	list-style: none;
